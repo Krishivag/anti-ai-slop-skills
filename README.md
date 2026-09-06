@@ -4,7 +4,7 @@ A skill that detects and eliminates "AI slop" aesthetics from frontend UI websit
 
 ## What is AI slop?
 
-AI slop in UI is **distributional convergence**: models trained on millions of "modern SaaS" sites collapse to the statistical average purple gradients, rounded-2xl cards, Inter at 64px, three-feature grids. The output is technically polished but has no opinion, no friction, no specificity. Real products have weird corners that betray actual users. AI output is smooth because it's averaged.
+AI slop in the UI is **distributional convergence**: models trained on millions of "modern SaaS" sites collapse to the statistical average purple gradients, rounded-2xl cards, Inter at 64px, three-feature grids. The output is technically polished but has no opinion, no friction, no specificity. Real products have weird corners that betray actual users. AI output is smooth because it's averaged.
 
 This skill resists the average. Every default the model wants to reach for is suspect.
 
