@@ -8,7 +8,7 @@ AI slop in the UI is **distributional convergence**: models trained on millions 
 
 This skill resists the average. Every default the model wants to reach for is suspect.
 
----
+---- 
 
 ## What this skill does
 
